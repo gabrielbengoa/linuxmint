@@ -21,3 +21,13 @@ cd - -> volta
 pwd -> mostra a localização de onde você está
 mkdir -> cria um diretório
 TAB -> autocompleta
+
+
+guiafoca.org -> site sobre GNU/Linux
+
+
+sudo -> super usuário (obrigatório para iniciar comandos no terminal)
+apt -> gerenciador de pacotes de programas
+update -> atualiza as dependências
+&& - comando comercial (inicia um segundo comando depois do primeiro
+git clone -> faz download de um projeto do github
