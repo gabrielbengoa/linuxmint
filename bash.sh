@@ -31,8 +31,3 @@ apt -> gerenciador de pacotes de programas
 update -> atualiza as dependências
 && - comando comercial (inicia um segundo comando depois do primeiro)
 git clone -> faz download de um projeto do github
-echo -> imprime na tela o que você quer
-seta para cima -> mostra o que você executou
-seta para baixo -> mostra o que você fez
-echo """" > -> cria um arquivo com a informação que você fez
-touch -> muda a data e a hora do arquivo, além de criá-lo caso não exista
