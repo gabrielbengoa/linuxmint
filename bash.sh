@@ -18,6 +18,6 @@ verde -> perigo
 
 
 cd - -> volta
-pwd -mostra a localização de onde você está
+pwd -> mostra a localização de onde você está
 mkdir -> cria um diretório
 TAB -> autocompleta
